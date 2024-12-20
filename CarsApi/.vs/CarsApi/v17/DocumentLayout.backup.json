@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\carsapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\carsapi\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\carsapi\\models\\carsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\models\\carsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\carsapi\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\carsapi\\controllers\\channelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\controllers\\channelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\carsapi\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\carsapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\carsapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\carsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TripController.cs",
+              "DocumentMoniker": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Controllers\\TripController.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Controllers\\TripController.cs",
+              "ToolTip": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Controllers\\TripController.cs",
+              "RelativeToolTip": "CarsApi\\Controllers\\TripController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvycAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:09:25.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Controllers\\PostController.cs",
+              "RelativeToolTip": "CarsApi\\Controllers\\PostController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:07:54.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Controllers\\EventController.cs",
+              "RelativeToolTip": "CarsApi\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:44:16.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "CarsApi\\Controllers\\CommentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:37:17.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChannelController.cs",
+              "DocumentMoniker": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Controllers\\ChannelController.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Controllers\\ChannelController.cs",
+              "ToolTip": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Controllers\\ChannelController.cs",
+              "RelativeToolTip": "CarsApi\\Controllers\\ChannelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:31:25.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Controllers\\CarController.cs",
+              "RelativeToolTip": "CarsApi\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:22:07.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CarsApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:11:16.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Program.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Program.cs",
+              "ToolTip": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Program.cs",
+              "RelativeToolTip": "CarsApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:21:51.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarsApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Models\\CarsApiContext.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Models\\CarsApiContext.cs",
+              "ToolTip": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Models\\CarsApiContext.cs",
+              "RelativeToolTip": "CarsApi\\Models\\CarsApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:39:30.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
