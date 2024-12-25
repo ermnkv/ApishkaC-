@@ -493,7 +493,7 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "CarsApi.Models.User",
+        "Type": "CarsApi.Controllers.UserModel",
         "IsRequired": true
       }
     ],
@@ -530,7 +530,7 @@
       },
       {
         "Name": "user",
-        "Type": "CarsApi.Models.User",
+        "Type": "CarsApi.Controllers.UserModel",
         "IsRequired": true
       }
     ],

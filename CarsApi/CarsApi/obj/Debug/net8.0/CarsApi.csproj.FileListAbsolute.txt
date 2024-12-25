@@ -141,3 +141,4 @@ C:\Users\vikazavr\Desktop\ApishkaC#\CarsApi\CarsApi\obj\Debug\net8.0\refint\Cars
 C:\Users\vikazavr\Desktop\ApishkaC#\CarsApi\CarsApi\obj\Debug\net8.0\CarsApi.pdb
 C:\Users\vikazavr\Desktop\ApishkaC#\CarsApi\CarsApi\obj\Debug\net8.0\CarsApi.genruntimeconfig.cache
 C:\Users\vikazavr\Desktop\ApishkaC#\CarsApi\CarsApi\obj\Debug\net8.0\ref\CarsApi.dll
+C:\Users\vikazavr\Desktop\ApishkaC#\CarsApi\CarsApi\obj\Debug\net8.0\CarsApi.sourcelink.json

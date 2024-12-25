@@ -1,0 +1,66 @@
+﻿@page "/User"
+
+<PageTitle>User</PageTitle>
+
+
+<section id="">
+    <div class="container">
+        <p>Текущее время: @CurrentTime</p>
+        <p>Текущая дата: @CurrentDate</p>
+
+        <h1>Пользователи</h1>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">Password</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in result)
+                {
+                    <tr>
+                        <th scope="row">@user.Id</th>
+                        <td>@user.Login</td>
+                        <td>@user.Name</td>
+                        <td>@user.Password</td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>
+
+@code {
+    public class Users
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Login { get; set; }
+        public string Password { get; set; }
+    }
+    public Users[] result = new Users[] { };
+    string CurrentDate;
+    string CurrentTime;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var date = DateTime.Now;
+        CurrentDate = date.ToShortDateString();
+        CurrentTime = date.ToShortTimeString();
+
+        var client = new HttpClient();
+        client.BaseAddress = new Uri("https://apishkac.onrender.com/api/Users");
+
+        result = await client.GetFromJsonAsync<Users[]>("api/User");
+
+        return;
+
+    }
+}
+

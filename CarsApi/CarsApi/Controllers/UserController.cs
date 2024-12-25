@@ -3,7 +3,17 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CarsApi.Controllers
 {
-    [Route("api/[controller]")]
+    public partial class UserModel
+    {
+        public long Id { get; set; }
+
+        public string Login { get; set; } = null!;
+
+        public string Name { get; set; } = null!;
+
+        public string Password { get; set; } = null!;
+    }
+        [Route("api/[controller]")]
     [ApiController]
     public class UsersController : ControllerBase
     {
@@ -29,19 +39,33 @@ namespace CarsApi.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreateUser(User user)
+        public async Task<IActionResult> CreateUser(UserModel user)
         {
-            _context.Users.Add(user);
+            var model1 = new User()
+            {
+                Name = user.Name,
+                Login = user.Login,
+                Password = user.Password,
+
+            };
+            _context.Users.Add(model1);
             await _context.SaveChangesAsync();
             return CreatedAtAction(nameof(GetUser), new { id = user.Id }, user);
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateUser(long id, User user)
+        public async Task<IActionResult> UpdateUser(long id, UserModel user)
         {
-            if (id != user.Id) return BadRequest();
+            var model1 = new User()
+            {
+                Name = user.Name,
+                Login = user.Login,
+                Password = user.Password,
 
-            _context.Entry(user).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+            };
+            if (id != model1.Id) return BadRequest();
+
+            _context.Entry(model1).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
             await _context.SaveChangesAsync();
 
             return NoContent();

@@ -3,6 +3,17 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CarsApi.Controllers
 {
+    public partial class CarModel
+    {
+        public long Id { get; set; }
+
+        public long IdCar { get; set; }
+
+        public string Brand { get; set; } = null!;
+
+        public string Model { get; set; } = null!;
+
+    }
     [Route("api/[controller]")]
     [ApiController]
     public class CarController : Controller
