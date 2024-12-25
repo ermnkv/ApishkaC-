@@ -55,9 +55,9 @@
         CurrentTime = date.ToShortTimeString();
 
         var client = new HttpClient();
-        client.BaseAddress = new Uri("https://apishkac.onrender.com/api/Users");
+        client.BaseAddress = new Uri("https://apishkac.onrender.com/");
 
-        result = await client.GetFromJsonAsync<Users[]>("api/User");
+        result = await client.GetFromJsonAsync<Users[]>("api/Users");
 
         return;
 

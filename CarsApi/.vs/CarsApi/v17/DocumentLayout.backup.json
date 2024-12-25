@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\carsapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\carsapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\carsapi\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\carsapi\\models\\carsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\models\\carsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8CC04970-6BC6-42C4-8718-576053C4F8BE}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\blazorapp1\\pages\\user.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8CC04970-6BC6-42C4-8718-576053C4F8BE}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\user.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\carsapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CC04970-6BC6-42C4-8718-576053C4F8BE}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\blazorapp1\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8CC04970-6BC6-42C4-8718-576053C4F8BE}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\carsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|c:\\users\\vikazavr\\desktop\\apishkac#\\carsapi\\carsapi\\models\\carsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D016DC2-3DD7-470E-BDB3-B0CCEABE581C}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\models\\carsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Models\\User.cs",
-              "RelativeDocumentMoniker": "CarsApi\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Models\\User.cs",
-              "RelativeToolTip": "CarsApi\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:06:12.034Z",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CarsApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\appsettings.Development.json",
+              "RelativeToolTip": "CarsApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T14:14:09.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "CarsApi\\Models\\Car.cs",
-              "ToolTip": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Models\\Car.cs",
-              "RelativeToolTip": "CarsApi\\Models\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:05:11.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\BlazorApp1\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "BlazorApp1\\Pages\\Index.razor",
@@ -77,33 +60,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "User.razor",
               "DocumentMoniker": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\BlazorApp1\\Pages\\User.razor",
               "RelativeDocumentMoniker": "BlazorApp1\\Pages\\User.razor",
               "ToolTip": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\BlazorApp1\\Pages\\User.razor",
               "RelativeToolTip": "BlazorApp1\\Pages\\User.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-25T12:17:02.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "CarsApi\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Controllers\\UserController.cs",
               "RelativeToolTip": "CarsApi\\Controllers\\UserController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAYwEsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T09:11:16.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CarsApiContext.cs",
               "DocumentMoniker": "C:\\Users\\vikazavr\\Desktop\\ApishkaC#\\CarsApi\\CarsApi\\Models\\CarsApiContext.cs",
               "RelativeDocumentMoniker": "CarsApi\\Models\\CarsApiContext.cs",
@@ -111,8 +94,7 @@
               "RelativeToolTip": "CarsApi\\Models\\CarsApiContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T20:39:30.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T20:39:30.511Z"
             }
           ]
         }
